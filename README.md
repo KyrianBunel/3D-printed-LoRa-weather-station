@@ -9,7 +9,7 @@
 - LoRaWAN communication protocol
 - Good measure of :
     temteratue +- 0.5°C
-    hymidity +- 1%
+    humidity +- 1%
     pressure
     ambient light
 - collect data every 30 minutes
