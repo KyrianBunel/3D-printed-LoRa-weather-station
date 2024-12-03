@@ -32,7 +32,7 @@
 # Parts list :
 - LTR390 ambient light sensor
 - Grove BME680 sensor
-- CubeCell – AB01 Dev-Board : [https://heltec.org/project/htcc-ab01-v2/](https://fr.aliexpress.com/item/1005006996324165.html?spm=a2g0o.order_list.order_list_main.5.493d5e5bFTWf9l&gatewayAdapt=glo2fra)
+- CubeCell – AB01 Dev-Board : https://fr.aliexpress.com/item/1005006996324165.html?spm=a2g0o.order_list.order_list_main.5.493d5e5bFTWf9l&gatewayAdapt=glo2fra
 - 72X45mm Solar pannel : https://fr.aliexpress.com/item/1005006312878480.html?spm=a2g0o.order_list.order_list_main.10.19585e5bnmPULu&gatewayAdapt=glo2fra
 
 
