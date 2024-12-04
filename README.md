@@ -8,27 +8,30 @@
 - 3.7V 750mAh battery compartement
 - LoRaWAN communication protocol
 - Good measure of :
+  
     temteratue +- 0.5°C
+
     humidity +- 1%
+
     pressure
+
     ambient light
+
 - collect data every 30 minutes
 
 # Future improvements :
 
 # How to start up :
 ### Weather station
-- 
 - Download the code and upload it to the AB01 dev board
-
 - Press the reset button on the PCB
+- Print the slt files included ans assemble the weather station
 
 ### Receiver
-- 
 - Download the code and upload it to the AB01 dev board
-
 - Press the reset button on the PCB
-- 
+- you will see data on serial monitor
+
 # Parts list :
 - LTR390 ambient light sensor
 - Grove BME680 sensor
