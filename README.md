@@ -19,8 +19,6 @@
 
 - collect data every 30 minutes
 
-# Future improvements :
-
 # How to start up :
 ### Weather station
 - Download the code and upload it to the AB01 dev board
